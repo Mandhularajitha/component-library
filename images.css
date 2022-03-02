@@ -1,0 +1,28 @@
+.img {
+    border-radius: 10px;
+    width: 20rem;
+    height: 20rem;
+}
+
+.image2 {
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%;
+    background-color: black;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #EFF6FF;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 60px;
+
+}
