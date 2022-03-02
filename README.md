@@ -12,4 +12,5 @@
 * Slider
 * Typography
 * Grid
+* Home-Page
 
