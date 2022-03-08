@@ -1,0 +1,72 @@
+.badge-container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 27rem;
+}
+
+.badge-container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 27rem;
+}
+
+.badge-container {
+    display: flex;
+    justify-content: space-evenly;
+    border: 3px solid rgb(141, 146, 190);
+    width: 27rem;
+}
+
+.profile {
+    position: relative;
+}
+
+.profile img {
+    height: 6rem;
+    width: 6rem;
+    border-radius: 12rem;
+}
+
+.profile {
+    border: 2px solid rgb(11, 229, 245);
+    border-radius: 5rem;
+    height: 6rem;
+    width: 6rem;
+}
+
+.profile-status {
+    position: absolute;
+    border: 9px solid rgb(16, 216, 206);
+    border-radius: 6rem;
+    bottom: 7px;
+    right: 7px;
+}
+
+.icon {
+    margin-top: 2rem;
+    display: block;
+    position: relative;
+
+
+}
+
+.icon-status {
+    position: absolute;
+    border: 3px solid rgb(7, 240, 240);
+    border-radius: 6rem;
+    bottom: 3rem;
+    left: 1.3rem;
+
+}
+
+li {
+    color: #6a6a70;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #EFF6FF;
+}
