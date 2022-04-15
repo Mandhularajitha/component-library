@@ -6,7 +6,6 @@
     box-sizing: border-box;
 }
 
-
 .wrapper_1{
     width: 400px;
     position: absolute;
@@ -45,10 +44,6 @@
 .error i{
     color: #ff355b;
 }
-
-
-
-
 
 .container-1.container-2{
     align-self: center;
