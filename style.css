@@ -78,7 +78,7 @@
     margin-top: 10px;
     width: 80%;
     overflow-x: hidden;
-    overflow-y: scroll;
+    /* overflow-y: scroll; */
     -webkit-overflow-scrolling: touch;
     padding: 20px;
 }
